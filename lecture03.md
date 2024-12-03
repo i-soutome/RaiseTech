@@ -2,7 +2,6 @@
 ### *APサーバー名およびバージョン
 PUMA(5.6.5)  
 ![03killpuma](./evidenceimage/03puma_ver.jpg)
-./evidenceimage/03/puma_ver.jpg
 
 ### *APサーバー終了時のアクセスの可不可
 アクセス不可  
