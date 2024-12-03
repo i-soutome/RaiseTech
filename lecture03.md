@@ -15,7 +15,7 @@ kill -9 <PUMA_ID>
 ## 2.DBサーバーについて
 ### *DBサーバー名およびバージョン
 MySQL(8.0.35)  
-![03killpuma](./evidenceimage/mysql_ver.jpg)  
+![03killpuma](./evidenceimage/03mysql_ver.jpg)  
 
 ### *DBサーバー終了時のアクセスの可不可
 アクセス不可  
