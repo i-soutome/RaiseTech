@@ -6,23 +6,20 @@ PUMA(5.6.5)
 ### *APサーバー終了時のアクセスの可不可
 アクセス不可  
 kill -9 <PUMA_ID>  
-![03killpuma](./evidenceimage/03killpuma.jpg)
-
-./evidenceimage/03/killpuma.jpg  
-./evidenceimage/03/停止.png  
+![03killpuma](./evidenceimage/03killpuma.jpg)  
+![03killpuma](./evidenceimage/03停止.png)  
 再起動  
-./evidenceimage/03/起動.png
+![03killpuma](./evidenceimage/03起動.png)  
 
 ## 2.DBサーバーについて
 ### *DBサーバー名およびバージョン
 MySQL(8.0.35)  
-./evidenceimage/03/mysql_ver.jpg  
+![03killpuma](./evidenceimage/mysql_ver.jpg)  
 
 ### *DBサーバー終了時のアクセスの可不可
 アクセス不可  
-./evidenceimage/03/mysqlstop.png  
--終了-  
 sudo service mysqld stop  
+![03killpuma](./evidenceimage/03mysqlstop.png)  
 -起動-  
 sudo service mysqld start  
 
