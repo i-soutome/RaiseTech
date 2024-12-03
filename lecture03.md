@@ -6,6 +6,8 @@ PUMA(5.6.5)
 ### *APサーバー終了時のアクセスの可不可
 アクセス不可  
 kill -9 <PUMA_ID>  
+![03killpuma](./evidenceimage/03killpuma.jpg)
+
 ./evidenceimage/03/killpuma.jpg  
 ./evidenceimage/03/停止.png  
 再起動  
